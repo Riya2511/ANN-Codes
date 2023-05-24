@@ -1,3 +1,5 @@
+#Write a python program to illustrate ART neural network.
+
 import numpy as np
 
 class ARTNetwork:
