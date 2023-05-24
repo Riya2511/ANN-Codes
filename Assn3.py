@@ -1,3 +1,5 @@
+#Write a python program using perceptron neural network to recognize even and odd numbers. Given numbers are in ASCII from 0 to 9
+
 import numpy as np
 
 # Training data (binary representation of numbers 0 to 9)
